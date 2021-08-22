@@ -1,3 +1,5 @@
+//This pogram being create to calculate chemical oxygen demand of sample water
+
 import java.util.Scanner;
 class COD {
     COD(float a, float b, float s) {
